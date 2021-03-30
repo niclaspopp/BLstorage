@@ -1,7 +1,1 @@
-inputs/
-__pycache__/
-outputs/
-src/.*
-*.ipynb_checkpoints*
-.DS_Store
-.idea/
+
